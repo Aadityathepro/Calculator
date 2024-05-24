@@ -1,2 +1,2 @@
-# Calculator
+# python 
 It calculate the basic calculation and some scientific calculation. 
